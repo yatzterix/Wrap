@@ -95,7 +95,11 @@
     transform: translateY(-8px) rotate(-45deg);
   }
 }
-
+/* LOGO  */
+.logo{
+  align-items: center;
+  width: 75%;
+}
 /*HERO SECTION*/
 .hero {
   background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.9)),
