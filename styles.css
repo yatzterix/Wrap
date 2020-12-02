@@ -193,6 +193,7 @@
 .fa-check-circle {
   margin-right: 0.5rem;
   color: var(--red);
+  font-size: 50px !important;
 }
 
 @media screen and (max-width: 768px) {
