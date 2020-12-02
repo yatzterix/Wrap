@@ -143,10 +143,10 @@
 }
 
 .button:hover {
-  background: var(--black);
-  color: var(--white);
-  border-color: var(--white);
-  border-style: solid;
+  background: var(--white);
+  color: var(--black);
+  /* border-color: var(--white); */
+  /* border-style: solid; */
 }
 
 /*SERVICES SECTION*/
